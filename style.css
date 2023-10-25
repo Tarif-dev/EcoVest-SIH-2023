@@ -218,7 +218,7 @@
     
     transition: 0.2s ease;
     z-index: 99;
-    filter: blur(20px);
+    filter: blur(10px);
 }
 
 .cards:hover .cards-slide{
