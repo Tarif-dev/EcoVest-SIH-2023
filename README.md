@@ -1,2 +1,2 @@
-# SIH-2023
+# EcoVest SIH 2023
 Investment platform for green energy.
